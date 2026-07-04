@@ -1,10 +1,10 @@
-#EXTM3U
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2020/09/digital-15.png" group-title="Dominicanos" tvg-language="spa" resolution="1920x1080",Digital 15 HD
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://example.com/logos/serie1.png" group-title="Series" tvg-language="spa" resolution="1280x720",Canal de Series Retro HD
 https://servidor-iptv.com/live/serie1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/logos/serie2.png" group-title="Series" tvg-language="es" resolution="1920x1080",Canal de Acción 24/7 HD
-https://servidor-iptv.com/live/serie2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/logos/deporte1.png" group-title="Deportes" tvg-language="es",Teleantillas HD
+#EXTINF:-1 tvg-logo="https://example.com/logos/deporte1.png" group-title="Deportes" tvg-language="es" resolution="1920x1080",Teleantillas HD
 https://servidor-iptv.com/live/deporte1/index.m3u8

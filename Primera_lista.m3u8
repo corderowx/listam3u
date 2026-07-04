@@ -6,5 +6,5 @@ https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/logos/serie1.png" group-title="Series" tvg-language="spa" resolution="1280x720",Canal de Series Retro HD
 https://servidor-iptv.com/live/serie1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/logos/deporte1.png" group-title="Deportes" tvg-language="es" resolution="1920x1080",Teleantillas HD
+#EXTINF:-1 tvg-logo="https://example.com/logos/deporte1.png" group-title="Deportes" tvg-language="es" resolution="11920x1080",Teleantillas HD
 https://servidor-iptv.com/live/deporte1/index.m3u8
